@@ -4,7 +4,7 @@ This repository contains a representative sample of the labeled process tree
 dataset introduced in:
 
 > "Beyond the Binary: Detecting the Malicious Abuse of Living-Off-The-Land 
-> Techniques" — Journal of Information Security and Applications (under review), 2026.
+> Techniques using Graph Neural Networks" — Cyber Security and Applications (under review), 2026.
 
 
 Each file is a JSON process tree with nodes representing process invocations 
